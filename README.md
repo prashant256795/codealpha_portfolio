@@ -1,2 +1,2 @@
-# codealpha_portfolio
+# codealphaproject_portfolio
 https://prashant256795.github.io/codealpha_portfolio/
